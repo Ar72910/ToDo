@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import TodoForm from "./TodoForm";
 import { v4 as uuidv4 } from "uuid";
-import Todo from "./Todo";
+
 import Fetchdata from "../Fetchdata";
 
 uuidv4();
